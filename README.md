@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-raw&label=Profile%20views&color=0e75b6&style=flat" alt="vansh-raw" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansh-raw" alt="vansh-raw" /></a> </p>
-
 - 💬 Ask me about **React, Javascript, NodeJS, HTML, CSS, DSA.**
 
 - 📫 How to reach me **vansh28112004@gmail.com**
