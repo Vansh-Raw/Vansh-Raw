@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vansh Rawat</h1>
 <h3 align="center">Engineer blending DSA, frontend finesse, and system smarts.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-raw&label=Profile%20views&color=0e75b6&style=flat" alt="vansh-raw" /> </p>
-
 - 💬 Ask me about **React, Javascript, NodeJS, HTML, CSS, DSA.**
 
 - 📫 How to reach me **vansh28112004@gmail.com**
