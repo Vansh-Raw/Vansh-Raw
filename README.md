@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vansh Rawat</h1>
-<h3 align="center">Full-Stack Developer | DSA Enthusiast | Systems Thinker</h3>
+<h3 align="center">Front-End Developer | DSA Enthusiast | Systems Thinker</h3>
 
 ---
 
@@ -46,7 +46,7 @@ I'm a results-driven software engineer passionate about crafting clean, scalable
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vansh-rawat28&show_icons=true&theme=tokyonight" alt="Vansh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vansh-Raw&show_icons=true&theme=tokyonight" alt="Vansh's GitHub Stats" />
 </p>
 
 ---
