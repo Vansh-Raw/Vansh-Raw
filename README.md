@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vansh Rawat</h1>
-<h3 align="center">Front-End Developer | DSA Enthusiast | Systems Thinker</h3>
+<h3 align="center">Front-End Developer | DSA Enthusiast | Problem Solver</h3>
 
 ---
 
@@ -9,7 +9,7 @@ I'm a result-driven software engineer passionate about crafting clean, scalable 
 
 - 🔧 I build with **React**, **Node.js**, **JavaScript**, **HTML/CSS**, and enjoy solving **DSA** challenges.
 - 🌱 Currently exploring **system design**, **backend optimization**, and advanced frontend architectures.
-- 📄 View my resume [here]([https://drive.google.com/file/d/1BfcTpJmpzcaC0g8gO1MCmqk194Si_rl0/view?usp=sharing](https://drive.google.com/file/d/1tJLQeAgBDVrpjKfONW0-B92RSCUgUHz2/view?usp=sharing))
+- 📄 View my resume [here]([https://drive.google.com/file/d/1tJLQeAgBDVrpjKfONW0-B92RSCUgUHz2/view?usp=sharing])
 - 📬 Reach out at: **vansh28112004@gmail.com**
 - 🧠 Fun Fact: When not coding, I’m probably skating or trying to keep my plants alive 🌿
 
